@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ff4549f-f851-486b-bb46-944527777312" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contact-link</find>
+      <find>Devise</find>
+      <find>lang</find>
+      <find>default-bootstrap</find>
+      <find>,</find>
+      <find>Logiciel e-commerce par %pro</find>
+      <find>&lt;a class=&quot;_blank&quot; href=&quot;http://www.prestashop.com&quot; target=&quot;_blank&quot;&gt;</find>
+      <find>DELIVERY</find>
+      <find>NOTRE SOCIÉTÉ</find>
+      <find>footer</find>
+      <find>trending_up</find>
+      <find>&lt;i class=&quot;material-icons</find>
+      <find>mi-account_circle</find>
+      <find>account_circle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/ps_contactinfo/nav.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/modules/ps_contactinfo/nav.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/modules/ps_languageselector/ps_languageselector.tpl" />
+        <option value="$PROJECT_DIR$/admin200vyu5na/themes/default/template/footer.tpl" />
+        <option value="$PROJECT_DIR$/app/Resources/translations/fr-FR/ShopThemeGlobal.fr-FR.xlf" />
+        <option value="$PROJECT_DIR$/var/cache/prod/translations/catalogue.fr-FR.NXhscRe.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/export/classic/fr-FR/ShopThemeGlobal.fr-FR.xlf" />
+        <option value="$PROJECT_DIR$/var/cache/prod/translations/catalogue.fr-FR.L8dqxxF.php" />
+        <option value="$PROJECT_DIR$/translations/sf-fr-FR/fr-FR/ShopThemeGlobal.fr-FR.xlf" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/ba/ba4e18c2196c77a83c8cb4d3e8f24b4e63042573ccb4d85234eaee717b72af3b.php" />
+        <option value="$PROJECT_DIR$/admin240rxdyc0/themes/default/template/nav.tpl" />
+        <option value="$PROJECT_DIR$/admin240rxdyc0/themes/default/template/header.tpl" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/81/8104e417d360163cf14707aea3625efe91ca366d79e9970076c2826e6842299f.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/c0/c004d8ddb60ab46c2d79b5b72e037e67b19a2a9b5cdfff91482114b719ae20d1.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/c9/c942e3be045029b32d9a612601666571f812118b480f2ca1904429e1bea3888d.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/03/03f205a34a16f28f725c4a484f0407d3dfad077735bcf4f8475a873c3e819d14.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/d3/d307d62625e85f4b456519b9b25690c26f7daaea24a15d284b5bf093724a9c65.php" />
+        <option value="$PROJECT_DIR$/var/cache/prod/twig/6b/6bf683aa0b14d8b3ad967638ac499aa4fc578878efe7038c8ee8494e3a5ae988.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="78" />
+    <option name="y" value="9" />
+    <option name="width" value="1326" />
+    <option name="height" value="694" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mon_ecom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mon_ecom" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ff4549f-f851-486b-bb46-944527777312" name="Default Changelist" comment="" />
+      <created>1544799007567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544799007567</updated>
+      <workItem from="1544799010260" duration="240000" />
+      <workItem from="1544976244199" duration="3012000" />
+      <workItem from="1545299445731" duration="3370000" />
+      <workItem from="1545391470552" duration="3470000" />
+      <workItem from="1548247181037" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11817000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="78" y="9" width="1326" height="694" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26246107" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.34146342" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26323986" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34146342" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/ps_contactinfo/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/prod/translations/catalogue.fr-FR.NXhscRe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2817" column="87" selection-start-line="2817" selection-start-column="87" selection-end-line="2817" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/xml/themes/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/translations/fr-FR/ModulesLinklistShop.fr-FR.xlf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/prod/twig/ba/ba4e18c2196c77a83c8cb4d3e8f24b4e63042573ccb4d85234eaee717b72af3b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin240rxdyc0/themes/default/template/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="35" column="97" selection-start-line="35" selection-start-column="97" selection-end-line="35" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/prod/twig/81/8104e417d360163cf14707aea3625efe91ca366d79e9970076c2826e6842299f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="325" column="32" selection-start-line="325" selection-start-column="32" selection-end-line="325" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/prod/twig/6b/6bf683aa0b14d8b3ad967638ac499aa4fc578878efe7038c8ee8494e3a5ae988.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="333" column="23" selection-start-line="333" selection-start-column="23" selection-end-line="333" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin240rxdyc0/themes/new-theme/template/components/layout/employee_dropdown.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
